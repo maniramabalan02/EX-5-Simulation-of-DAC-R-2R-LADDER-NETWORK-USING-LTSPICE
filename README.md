@@ -16,7 +16,7 @@
 4.Complete the connection.
 5.Save the file by giving file name.
 6.Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude-> time delay stop time value.
-7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
+7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained 
 ---
 
 ## CIRCUIT DIAGRAM
