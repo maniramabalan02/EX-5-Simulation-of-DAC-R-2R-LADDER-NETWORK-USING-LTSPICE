@@ -18,9 +18,9 @@
 7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
 ---
 
-## CIRCUIT DIAGRAM
+## CIRCUIT DIAGRAM AND OUTPUT WAVEFORM
 
-![WhatsApp Image 2025-11-23 at 15 37 56_34ad03e3](https://github.com/user-attachments/assets/85fd6a3e-09bb-4c38-bcdc-4685defc1ca7)
+<img width="956" height="1280" alt="image" src="https://github.com/user-attachments/assets/1e45e82f-1127-49fb-9a5c-e4357452a9c7" />
 
 
 ---
@@ -29,14 +29,13 @@
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
-## OUTPUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-23 at 15 39 11_78be7ae8](https://github.com/user-attachments/assets/e8ca1ac6-7461-4523-9ca3-b97c86853cc1) 
 
 
 ## DESIGN AND CALCULATION
-![WhatsApp Image 2025-11-23 at 15 44 04_5893a836](https://github.com/user-attachments/assets/6ae18619-1613-4fea-988f-827b76130784)
-![WhatsApp Image 2025-11-23 at 15 44 49_039c0af0](https://github.com/user-attachments/assets/88c2155b-a1fd-4f2c-99eb-33cc9c4e1cf5)
+<img width="1104" height="988" alt="image" src="https://github.com/user-attachments/assets/1c74523e-5a85-491a-996b-d33f79998ab0" />
 
+
+<img width="1280" height="990" alt="image" src="https://github.com/user-attachments/assets/c8ba7b5c-b521-46eb-9f22-f75b4343bb6d" />
 
 
 ---
